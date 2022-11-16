@@ -1,3 +1,3 @@
 # dc-project
-![preview](preview.gif)
+![preview](obj.gif)
 
